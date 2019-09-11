@@ -1,0 +1,26 @@
+[33mddaf6bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m 我也不知道进行修改了没
+[33m107f93a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m repair with vpImage
+[33meb975bc[m repair bug with viewpage-image
+[33m8dc45b3[m repair bug with nav background,searchActivity
+[33m7766e30[m update README
+[33me01ac17[m add app_display_jpg,apk
+[33m09e556e[m update with WebActivity Button
+[33m8b118b6[m update with add Activity Transition
+[33mdccbee8[m update with add SearchAdapter
+[33m965dbe2[m update with add SearchActivity
+[33m1977146[m update with collectionAdapter
+[33mffe3f98[m update with add GreenDao Utils
+[33me45d1f6[m update with add CollectionFragment
+[33mfb6e7fa[m update with add SettingFragment
+[33m43efc86[m update with add WebViewActivity
+[33m40f6ddd[m update with add Movie List
+[33m1282019[m update with add BottonSheets
+[33m96d82ee[m update with add BookDetilsActivity
+[33me956985[m update with add LabelFragment
+[33m72b5059[m update with add ActorDetailFragment
+[33mc86162d[m update with add moviedetails
+[33mfd98114[m update with add Cache_Movie
+[33me7b21aa[m update with add pagerMovieFragment
+[33mc239015[m update with HttpResultMethod
+[33m357ddd0[m First commit
+[33mbf47ff2[m Initial commit
